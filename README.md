@@ -1,19 +1,29 @@
 # 🛒 Shopping Management System
 
-This repository contains my Java-based Shopping Management System project.
-It includes GUI using Java Swing, database connectivity with JDBC, and full CRUD operations (Create, Read, Update, Delete).
+This repository contains my Java-based Shopping Management System project.  
+It includes GUI using **Java Swing**, database connectivity with **JDBC**, and full **CRUD operations** (Create, Read, Update, Delete).
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## ✨ Features
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### 👤 User Features
+- User Registration  
+- User Login  
+- Product Browsing  
+- Add to Cart  
+- Checkout and Bill Generation  
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### 🔐 Admin Features
+- Admin Login  
+- Add / Update / Delete Products  
+- View All Users  
+- View All Orders  
+- Inventory Management Dashboard  
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### 🧩 Technical Features
+- Java Swing GUI  
+- JDBC connectivity with MySQL  
+- DAO (Data Access Object) Pattern  
+- Exception Handling  
+- Multithreading for Loading Screen  
