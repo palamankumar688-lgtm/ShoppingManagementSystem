@@ -1,6 +1,7 @@
-## Getting Started
+# 🛒 Shopping Management System
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This repository contains my Java-based Shopping Management System project.
+It includes GUI using Java Swing, database connectivity with JDBC, and full CRUD operations (Create, Read, Update, Delete).
 
 ## Folder Structure
 
